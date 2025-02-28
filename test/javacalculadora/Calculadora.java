@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  *
- * @author Perla Díaz 
+ * @author Denisse Joya
  */
 public class Calculadora {
     float suma, resta, mult;
